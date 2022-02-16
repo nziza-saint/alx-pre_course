@@ -1,1 +1,1 @@
-This is my first ALX project to be on GITHUB
+This is awesome my first ALX project to be on GITHUB
